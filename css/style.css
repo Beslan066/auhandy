@@ -182,14 +182,11 @@ button:hover {
     margin-right: 13px;
 }
 
-.choose-us {
-    height: 363px;
-}
 
-.choose-us .container {
-    display: flex;
-    margin-top: 110px;
-}
+
+
+
+
 
 .services {
     max-width: 1920px;
@@ -520,11 +517,182 @@ footer {
     height: 480px;
 }
 
+footer .container {
+    display: flex;
+    
+}
+
+.up-footer {
+    display:flex;
+    margin-bottom: 0;
+    margin-top: 60px;
+    height: 463px;
+}
+
+.contact-us {
+    margin-right: 50px;
+    margin-top: -25px;
+}
+
+.up-footer h3 {
+    font-size: 18px;
+    color: #cccccc;
+    font-weight: 1700;
+    
+}
+
+.contact-us ul {
+    margin-left: -40px;
+    width: 350px;
+}
+
+.contact-us li {
+    margin-left: 0;
+    margin-bottom: 20px;
+    color: #cccccc;
+}
+
+.contact-us li span {
+    margin-left: 35px;
+}
+
+
+li.phone {
+    list-style: none;
+    background: url(../img/footer/photo.png) no-repeat;
+    
+}
+
+li.loc {
+    list-style: none;
+    background: url(../img/footer/loc.png) no-repeat;
+    
+}
+
+li.mail {
+    list-style: none;
+    background: url(../img/footer/mail.png) no-repeat;
+    
+}
+
+li.clock {
+    list-style: none;
+    background: url(../img/footer/clock.png) no-repeat;
+    
+}
+
+li.phone p {
+    margin-left: 35px;
+}
+
+li.phone p span {
+    margin-left: 5px;
+}
+
+
+
+.or-services {
+margin-right: 100px;
+margin-top: -25px;
+}
+
+
+.footer-up-nav {
+    display: flex;
+    width: 360px;
+}
+
+.footer-up-nav ul {
+    margin-left: -35px;
+    width: 160px;
+}
+
+.first-ul {
+    padding-right: 45px;
+    width: 160px;
+}
+
+
+.footer-up-nav li {
+    margin-left: 0;
+    margin-bottom: 20px;
+    color: #cccccc;
+    list-style: none;
+    background: url(../img/footer/.png) no-repeat;
+}
+
+
+.footer-up-nav li span {
+    margin-left: 30px;
+}
+
+
+.footer-banner {
+    width: 368px;
+    height: 220px;
+    border: 1px dashed #cccccc;
+    padding-left: 140px;
+    
+    padding-top: 45px;
+    padding-bottom: 25px;
+
+}
+
+.footer-banner .action {
+    margin-top: 0;
+    font-weight: 700;
+    color: #cccccc;
+    font-size: 22px;
+}
+
+.action span {
+    font-size: 55px;
+    color: #e9a701;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.electrical-p {
+    font-size: 18px;
+    color: #cccccc;
+    margin-left: 15px;
+}
+
+
+.promo {
+    font-size: 15px;
+    color: #cccccc;
+    padding-top: 55px;
+}
+
+.promo span{
+    font-size: 16px;
+    color: #ffb619;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .under-footer {
     max-width: 1920px;
     background-color: #0d0d0d;
     height: 60px;
-    margin-top: 420px;
+    margin-top: -50px;
+    
     
 }
 
